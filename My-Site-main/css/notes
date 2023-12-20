@@ -1,0 +1,36 @@
+90px=562.5%
+
+positioning can be of many types
+relative:here the positioning takes place with respect to the edges of the particular image or a div which we want to change.
+EXAMPLE,if we give the positioning as right:20px; then the image moves 20px rightside of the current right boder.
+
+absolute:here the positioning takes place with respect to the complete webpage i.e. from the edges of the display.
+EXAMPLE,here if we give the positioning as 20px right then the image moves 20px from right edge of the display.
+
+size can be given with any of the units:-
+%------
+px-----
+em-----
+rem----it makes default when other  size tags are also present
+
+16px=100%=1em
+90px=5.625em
+
+{for icons visit flaticons website}
+
+line height--it is used to provide space between two lines i.e. top and bottom.
+
+using the FLOAT propery--we can aling the text and image.
+
+margin=this property is used to for aligning the text and other  elements in css.
+EXAMPLE--margin:20 30 40 50;
+                or
+        margin:auto;
+
+css button generator is used to create buttons (search it in google).
+
+dribble--website to find prototypes.
+
+bootsrap
+--------------------------
+font awesome is a website which provides icons.These icons can be used in any where in the program.
